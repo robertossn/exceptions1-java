@@ -47,7 +47,7 @@ public class Program11 {
 				reservation.updateDatesDate(checkin, checkout);
 				System.out.println("Reservation: " + reservation);
 				
-			}
+			} 
 			
 			
 		}
